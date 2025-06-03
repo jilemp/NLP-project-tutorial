@@ -8,7 +8,7 @@ This repository presents a Natural Language Processing (NLP) project aimed at de
 
 ```
 📦 URL-Spam-Detection/
-├── explore (5).ipynb         # Jupyter notebook with full analysis
+├── explore.ipynb         # Jupyter notebook with full analysis
 ├── README.md                 # Project description and usage
 ```
 
@@ -46,7 +46,7 @@ This repository presents a Natural Language Processing (NLP) project aimed at de
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/URL-Spam-Detection.git
+git clone https://github.com/jilemp/URL-Spam-Detection.git
 cd URL-Spam-Detection
 ```
 
