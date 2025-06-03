@@ -46,7 +46,7 @@ Este repositorio presenta un proyecto de Procesamiento de Lenguaje Natural (PLN)
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/your-username/URL-Spam-Detection.git
+git clone https://github.com/jilemp/URL-Spam-Detection.git
 cd URL-Spam-Detection
 ```
 
