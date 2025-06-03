@@ -7,7 +7,7 @@ Este repositorio presenta un proyecto de Procesamiento de Lenguaje Natural (PLN)
 
 ```
 📦 URL-Spam-Detection/
-├── explore (5).ipynb         # Notebook de Jupyter con el análisis completo
+├── explore.ipynb         # Notebook de Jupyter con el análisis completo
 ├── README.md                 # Descripción del proyecto y uso
 ```
 
